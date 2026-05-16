@@ -43,7 +43,7 @@ Everything runs completely FREE using:
 ## 📸 Preview
 
 <p align="center">
-  <img src="[[https://user-images.githubusercontent.com/xxxxx/xxxxx.png](https://github-production-user-asset-6210df.s3.amazonaws.com/184155120/593441924-a80572fb-5863-484e-9e28-ac29c705c8ab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260516%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260516T014447Z&X-Amz-Expires=300&X-Amz-Signature=1012b81b77dc5edb12c75eae66886b8a54c9b0c42d1468e32cb3ac2ec25d0dc3&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)](https://private-user-images.githubusercontent.com/184155120/593442290-9ea486b5-180b-48d3-b5ce-91d08fdadcd3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg4OTYzODgsIm5iZiI6MTc3ODg5NjA4OCwicGF0aCI6Ii8xODQxNTUxMjAvNTkzNDQyMjkwLTllYTQ4NmI1LTE4MGItNDhkMy1iNWNlLTkxZDA4ZmRhZGNkMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUxNlQwMTQ4MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZWZjOWIwZmZmNjJmNTRkNjUwZDc5YzRlZDg3MDgxZmFiZGEwYjA2OGYzZTdlMWI4YzhlMzYzZjlhNTA2OWYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.7eulTcZ7gRlUixebVE0oUkl_Sphn9JcTL2qZ1ekZ3mw)" width="400"/>
+  <img src="https://i.postimg.cc/s2SdPWmL/7543.png" width="400"/>
 </p>
 # ✨ Features
 
@@ -284,7 +284,7 @@ TGvTDSi9iHCk6NuoDSdbQ2J4cJB1oL5q8F
 ## 📸 Preview
 
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/xxxxx/xxxxx.png](https://github-production-user-asset-6210df.s3.amazonaws.com/184155120/593441592-585baac0-b487-44ac-85ad-c06cbd78250d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260516%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260516T014142Z&X-Amz-Expires=300&X-Amz-Signature=4d4d05337c0661d914f0e54043a5da77192adc052378a447fea2790eabc7b5d5&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)" width="400"/>
+  <img src="https://i.postimg.cc/YqVsX9hR/54ER.png" width="400"/>
 </p>
 
 # ✨ امکانات
