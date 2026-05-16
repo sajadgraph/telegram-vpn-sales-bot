@@ -3,7 +3,6 @@
 [English](#english)
 |
 [فارسی](#فارسی)
-# Telegram VPN Sales Bot
 
 ## 🇺🇸 English
 
