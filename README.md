@@ -227,9 +227,6 @@ https://api.telegram.org/botYOUR_TOKEN/setWebhook?url=YOUR_WEBAPP_URL
 
 
 
----
-
-
 ```
 ## 💖 Support This Project
 
