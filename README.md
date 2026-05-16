@@ -1,5 +1,10 @@
 # Telegram VPN Sales Bot
 
+[English](#english)
+|
+[فارسی](#فارسی)
+# Telegram VPN Sales Bot
+
 ## 🇺🇸 English
 
 A powerful Telegram VPN sales bot built with Google Apps Script and Telegram Bot API.
