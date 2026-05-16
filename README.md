@@ -251,6 +251,14 @@ TGvTDSi9iHCk6NuoDSdbQ2J4cJB1oL5q8F
 - Please make sure to use the **TRC20 network only for USDT**
 - Donations help improve and maintain this project 🚀
 
+
+### 💳 Crypto Donation Button
+
+<a href="https://nowpayments.io/donation?api_key=8db79c71-5bf2-4baf-82c2-8b5854afb806">
+  <img width="220" src="https://nowpayments.io/images/embeds/donation-button-white.svg" />
+</a>
+
+
 🙏 Thank you for your support!
 
 
@@ -492,4 +500,11 @@ TGvTDSi9iHCk6NuoDSdbQ2J4cJB1oL5q8F
 - حتماً برای تتر فقط از شبکه **TRC20 (ترون)** استفاده کنید
 - کمک‌های شما باعث توسعه و بهبود پروژه می‌شود 🚀
 
+
+### 💳حمایت مالی از طریق لینک مستقیم 
+
+
+<a href="https://nowpayments.io/donation?api_key=8db79c71-5bf2-4baf-82c2-8b5854afb806">
+  <img width="220" src="https://nowpayments.io/images/embeds/donation-button-white.svg" />
+</a>
 🙏 از حمایت شما متشکریم
