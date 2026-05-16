@@ -234,6 +234,25 @@ Copy the Web App URL.
 ```bash
 https://api.telegram.org/botYOUR_TOKEN/setWebhook?url=YOUR_WEBAPP_URL
 ```
+## 💖 Support This Project
+
+If this project helps you, you can support development:
+
+### 💰 USDT (TRC20 - TRON)
+TGvTDSi9iHCk6NuoDSdbQ2J4cJB1oL5q8F
+
+### ⚡️ TRX (TRON)
+TGvTDSi9iHCk6NuoDSdbQ2J4cJB1oL5q8F
+
+
+---
+
+## 📝 Notes
+- Please make sure to use the **TRC20 network only for USDT**
+- Donations help improve and maintain this project 🚀
+
+🙏 Thank you for your support!
+
 
 
 ---
@@ -457,3 +476,20 @@ https://api.telegram.org/botYOUR_TOKEN/setWebhook?url=YOUR_WEBAPP_URL
 ```bash
 https://api.telegram.org/botYOUR_TOKEN/setWebhook?url=YOUR_WEBAPP_URL
 ```
+## 💖 حمایت از این پروژه
+
+اگر این پروژه برات مفید بوده و دوست داشتی از توسعه آن حمایت کنی، می‌تونی از طریق ارز دیجیتال دونیت کنی:
+
+### 💰 تتر (USDT - شبکه TRC20 / ترون)
+TGvTDSi9iHCk6NuoDSdbQ2J4cJB1oL5q8F
+
+### ⚡️ ترون (TRX - شبکه TRON)
+TGvTDSi9iHCk6NuoDSdbQ2J4cJB1oL5q8F
+
+---
+
+## 📝 نکات مهم
+- حتماً برای تتر فقط از شبکه **TRC20 (ترون)** استفاده کنید
+- کمک‌های شما باعث توسعه و بهبود پروژه می‌شود 🚀
+
+🙏 از حمایت شما متشکریم
