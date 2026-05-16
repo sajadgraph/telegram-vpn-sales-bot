@@ -1,3 +1,231 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Telegram%20VPN%20Sales%20Bot&fontSize=35&fontColor=ffffff" />
+</p>
+
+<p align="center">
+🚀 Automated VPN Sales Bot • Google Apps Script • Google Sheets • Telegram Bot API
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+</p>
+
+---
+
+# Telegram VPN Sales Bot
+
+[🇺🇸 English](#english)
+|
+[🇮🇷 فارسی](#فارسی)
+
+---
+
+# 🇺🇸 English
+
+A powerful Telegram VPN sales bot built with Google Apps Script and Telegram Bot API.
+
+This project allows you to create a fully automated VPN sales system without needing:
+
+* VPS
+* Dedicated Server
+* Web Hosting
+* Paid Database
+
+Everything runs completely FREE using:
+
+* Google Apps Script
+* Google Sheets
+* Telegram Bot API
+
+---
+
+# ✨ Features
+
+* Fully automated VPN sales
+* Google Sheets database system
+* Admin payment verification
+* Instant config delivery
+* Subscription/config management
+* No hosting required
+* Easy setup for beginners
+* Lightweight and fast
+
+---
+
+# 🗂 Database System
+
+This bot uses a Google Sheets file as the database.
+
+The spreadsheet contains 2 sheets:
+
+## 1. Stock
+
+This sheet contains available VPN configs/subscription links.
+
+You can store:
+
+* Subscription links
+* Config codes
+* Any custom access data
+
+The bot automatically reads available configs from this sheet.
+
+---
+
+## 2. Sales
+
+This sheet stores sold services.
+
+When a purchase is completed:
+
+* User ID
+* Purchased plan
+* Delivered config
+* Purchase time
+
+will automatically be saved into the Sales sheet.
+
+---
+
+# ⚙️ How It Works
+
+## Step 1 — User Starts The Bot
+The user opens the Telegram bot and sees the main menu.
+
+---
+
+## Step 2 — User Selects A Service
+The user clicks:
+
+* Buy Service
+or
+* Pricing
+
+The bot displays available plans and prices.
+
+---
+
+## Step 3 — Payment
+The user transfers payment and sends the payment receipt image to the bot.
+
+---
+
+## Step 4 — Admin Verification
+The payment receipt is automatically forwarded to the admin.
+
+The admin has 2 buttons:
+
+* Approve
+* Reject
+
+---
+
+## Step 5 — Config Delivery
+If the admin approves the payment:
+
+The bot automatically:
+
+1. Reads available configs from the Stock sheet
+2. Finds the selected service
+3. Delivers the config/subscription link to the user
+4. Marks the config as SOLD
+5. Saves the sale into the Sales sheet
+
+---
+
+## Step 6 — Reject Payment
+If the admin rejects the payment:
+The user receives a rejection message automatically.
+
+---
+
+# 📋 Stock Sheet Structure
+
+| Column | Description |
+|---|---|
+| A | Optional ID |
+| B | Plan Name |
+| C | Config / Subscription Link |
+| D | Status |
+
+Example:
+
+| ID | PLAN | CONFIG | STATUS |
+|---|---|---|---|
+| 1 | 1GB | vmess://xxxxx | |
+| 2 | 2GB | vless://xxxxx | Sold |
+
+When a config is sold:
+* Status becomes `Sold`
+
+---
+
+# 🤖 Bot Menu Buttons
+
+## 👤 My Service
+Shows purchased services for the user.
+
+---
+
+## 🛒 Buy Service
+Displays plans and pricing.
+
+---
+
+## 📊 Pricing
+Displays all available plans and prices.
+
+---
+
+## 📚 Connection Tutorial
+Shows connection/setup instructions.
+
+---
+
+## 📢 Support Channel
+Displays the Telegram support channel link.
+
+---
+
+## 🤝 Partnership Sales
+Shows the admin/support contact ID.
+
+---
+
+# 🚀 Deployment Guide
+
+## 1. Create Telegram Bot
+Create your bot using BotFather.
+
+---
+
+## 2. Create Google Apps Script
+Go to:
+https://script.google.com
+
+---
+
+## 3. Create Google Sheets Database
+Create spreadsheet with:
+* Stock sheet
+* Sales sheet
+
+---
+
+## 4. Deploy As Web App
+* Anyone can access
+* Copy Web App URL
+
+---
+
+## 5. Set Telegram Webhook
+
+```bash
+https://api.telegram.org/botYOUR_TOKEN/setWebhook?url=YOUR_WEBAPP_URL
+
+
 # Telegram VPN Sales Bot
 
 [English](#english)
