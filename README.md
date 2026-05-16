@@ -231,19 +231,6 @@ Copy the Web App URL.
 https://api.telegram.org/botYOUR_TOKEN/setWebhook?url=YOUR_WEBAPP_URL
 ```
 
----
-
-# 🔒 Security Notice
-
-Never upload:
-
-* Real bot token
-* Real admin ID
-* Private configs
-
-to public repositories.
-
-Use placeholders before publishing.
 
 ---
 
