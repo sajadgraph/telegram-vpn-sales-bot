@@ -238,7 +238,7 @@ https://api.telegram.org/botYOUR_TOKEN/setWebhook?url=YOUR_WEBAPP_URL
 
 ---
 
-# 🇮🇷 فارسی
+## فارسی
 
 ربات فروش VPN تلگرام با استفاده از Google Apps Script و Telegram Bot API ساخته شده است.
 
