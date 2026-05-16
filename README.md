@@ -40,7 +40,11 @@ Everything runs completely FREE using:
 * Telegram Bot API
 
 ---
+## 📸 Preview
 
+<p align="center">
+  <img src="[https://user-images.githubusercontent.com/xxxxx/xxxxx.png](https://github-production-user-asset-6210df.s3.amazonaws.com/184155120/593441924-a80572fb-5863-484e-9e28-ac29c705c8ab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260516%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260516T014447Z&X-Amz-Expires=300&X-Amz-Signature=1012b81b77dc5edb12c75eae66886b8a54c9b0c42d1468e32cb3ac2ec25d0dc3&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)" width="400"/>
+</p>
 # ✨ Features
 
 * Fully automated VPN sales
@@ -277,6 +281,11 @@ TGvTDSi9iHCk6NuoDSdbQ2J4cJB1oL5q8F
 * API تلگرام
 
 ---
+## 📸 Preview
+
+<p align="center">
+  <img src="[https://user-images.githubusercontent.com/xxxxx/xxxxx.png](https://github-production-user-asset-6210df.s3.amazonaws.com/184155120/593441592-585baac0-b487-44ac-85ad-c06cbd78250d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260516%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260516T014142Z&X-Amz-Expires=300&X-Amz-Signature=4d4d05337c0661d914f0e54043a5da77192adc052378a447fea2790eabc7b5d5&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)" width="400"/>
+</p>
 
 # ✨ امکانات
 
