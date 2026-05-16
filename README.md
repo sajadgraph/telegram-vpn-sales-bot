@@ -43,7 +43,7 @@ Everything runs completely FREE using:
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://i.postimg.cc/s2SdPWmL/7543.png" width="400"/>
+  <img src="https://i.postimg.cc/YqVsX9hR/54ER.png" width="400"/>
 </p>
 # ✨ Features
 
@@ -284,7 +284,7 @@ TGvTDSi9iHCk6NuoDSdbQ2J4cJB1oL5q8F
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://i.postimg.cc/YqVsX9hR/54ER.png" width="400"/>
+  <img src="https://i.postimg.cc/s2SdPWmL/7543.png" width="400"/>
 </p>
 
 # ✨ امکانات
